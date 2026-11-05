@@ -320,6 +320,10 @@ tools:
     repo: https://github.com/respectlytics/respectaso
     category: marketing
     use: App Store Optimization keyword research
+  - name: Telegram Sponsorship CPM Calculator
+    repo: https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator
+    category: marketing
+    use: Compare Telegram channel sponsorship quotes against median post views and estimate CPM
 
   - name: ViralMint
     repo: https://github.com/openclaw-easy/ViralMint
